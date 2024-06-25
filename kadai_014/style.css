@@ -14,7 +14,7 @@ h1 {
     font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
-    border-bottom: 3px dotted rgb(115, 115, 114)
+    border-bottom: 3px solid rgb(115, 115, 114)
 }
 .p {
     color: rgb(255, 192, 203);
